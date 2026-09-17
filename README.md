@@ -17,6 +17,11 @@
 <hr>
 
 <h2>About</h2>
+
+<p align="center">
+  <img src="[YOUR_RAW_GIF_URL]" width="360" alt="Coding From Home" />
+</p>
+
 <p>Experienced Software Developer with practical experience in software development, cybersecurity, Linux, networking, and system technologies. Skilled in building practical software solutions and applying programming concepts to real-world technical projects. 💻</p>
 <p>Strong programming experience with Python, C/C++, Java, Go, and Rust, with hands-on knowledge of software development, automation, backend technologies, databases, and system-level programming. ⚙️</p>
 <p>Experienced working with Linux environments, computer networking, cybersecurity, network security, ethical hacking, system administration, and security automation, with a focus on understanding systems and developing secure and reliable solutions. 🐧🔐</p>
@@ -123,7 +128,7 @@
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="Hacker Coding Animation" />
 </p>
 
 <hr>
