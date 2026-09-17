@@ -123,7 +123,7 @@
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="Hacker Coding Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380" alt="Hacker Typing Animation" />
 </p>
 
 <hr>
