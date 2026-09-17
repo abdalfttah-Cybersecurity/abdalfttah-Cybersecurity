@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/abdalfttah">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:[PLACEHOLDER_EMAIL]">
+    <a href="mailto:hackcore04@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
     </a>
   </p>
@@ -28,15 +28,19 @@
 
 <hr>
 
-<h2>Cybersecurity Focus</h2>
+<h2>🛡️ Cybersecurity Focus</h2>
+<blockquote>
+  <p>Building practical cybersecurity skills through hands-on security research, programming, Linux, and authorized security testing.</p>
+</blockquote>
 <ul>
-  <li><strong>Offensive Security</strong> — enumeration, exploitation workflows, privilege escalation in lab environments</li>
-  <li><strong>Vulnerability Assessment</strong> — identifying, validating, and documenting weaknesses</li>
-  <li><strong>Network Security</strong> — protocol analysis, traffic inspection, perimeter reasoning</li>
-  <li><strong>Web Security</strong> — application-layer flaws, request manipulation, secure-by-default design</li>
-  <li><strong>Linux Security</strong> — hardening, permissions, process and service analysis</li>
-  <li><strong>Security Automation</strong> — scripting repetitive recon and analysis tasks</li>
-  <li><strong>Secure Software Development</strong> — writing code with threat modeling in mind</li>
+  <li>🔴 <strong>Offensive Security</strong> — reconnaissance, enumeration, exploitation, and privilege-escalation workflows in controlled labs</li>
+  <li>🧠 <strong>Security Research</strong> — analyzing vulnerabilities, attack surfaces, system behavior, and security weaknesses</li>
+  <li>🌐 <strong>Network Security</strong> — protocol analysis, traffic inspection, service enumeration, and network attack-surface analysis</li>
+  <li>🕸️ <strong>Web Security</strong> — application security testing, request analysis, authentication, authorization, and input validation</li>
+  <li>🐧 <strong>Linux Security</strong> — hardening, permissions, processes, services, access control, and system analysis</li>
+  <li>⚙️ <strong>Security Automation</strong> — Python and scripting for security testing, reconnaissance, data processing, and repetitive workflows</li>
+  <li>🔐 <strong>Secure Software Development</strong> — threat modeling, secure coding, defensive design, and vulnerability prevention</li>
+  <li>🧪 <strong>Hands-On Security Labs</strong> — learning through controlled environments, practical experiments, testing, and technical analysis</li>
 </ul>
 
 <hr>
@@ -137,6 +141,6 @@
 <ul>
   <li><strong>GitHub:</strong> <a href="https://github.com/abdalfttah-Cybersecurity">abdalfttah-Cybersecurity</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abdalfttah">www.linkedin.com/in/abdalfttah</a></li>
-  <li><strong>Email:</strong> <a href="mailto:[PLACEHOLDER_EMAIL]">[PLACEHOLDER_EMAIL]</a></li>
+  <li><strong>Email:</strong> <a href="mailto:hackcore04@gmail.com">hackcore04@gmail.com</a></li>
 </ul>
 <p>Open to collaboration on security tooling, research, and secure software projects.</p>
