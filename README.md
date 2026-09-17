@@ -89,33 +89,32 @@
   <thead>
     <tr>
       <th>Project</th>
-      <th>Focus</th>
+      <th>Purpose</th>
       <th>Stack</th>
-      <th>Link</th>
+      <th>Repository</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>[PLACEHOLDER_PROJECT_NAME]</td>
-      <td>[PLACEHOLDER_ONE_LINE_PURPOSE]</td>
-      <td>[PLACEHOLDER_STACK]</td>
-      <td>[PLACEHOLDER_REPO_URL]</td>
+      <td>🔐 Cybersecurity &amp; Secure Software Development</td>
+      <td>Security automation, vulnerability assessment, secure coding, and security analysis in authorized environments</td>
+      <td>Python, Cybersecurity, Linux</td>
+      <td><a href="https://github.com/abdalfttah-Cybersecurity">GitHub</a></td>
     </tr>
     <tr>
-      <td>[PLACEHOLDER_PROJECT_NAME]</td>
-      <td>[PLACEHOLDER_ONE_LINE_PURPOSE]</td>
-      <td>[PLACEHOLDER_STACK]</td>
-      <td>[PLACEHOLDER_REPO_URL]</td>
+      <td>🛡️ Security Automation &amp; Network Analysis</td>
+      <td>Automating security workflows, service analysis, network inspection, and security-related data processing</td>
+      <td>Python, Networking, Linux</td>
+      <td><a href="https://github.com/abdalfttah-Cybersecurity">GitHub</a></td>
     </tr>
     <tr>
-      <td>[PLACEHOLDER_PROJECT_NAME]</td>
-      <td>[PLACEHOLDER_ONE_LINE_PURPOSE]</td>
-      <td>[PLACEHOLDER_STACK]</td>
-      <td>[PLACEHOLDER_REPO_URL]</td>
+      <td>🐧 Linux &amp; Cybersecurity Labs</td>
+      <td>Hands-on Linux security practice, system analysis, permissions, services, and security tooling</td>
+      <td>Linux, Bash, Cybersecurity</td>
+      <td><a href="https://github.com/abdalfttah-Cybersecurity">GitHub</a></td>
     </tr>
   </tbody>
 </table>
-<p><em>Each project README documents its purpose, threat model or design constraints, and how to run it safely.</em></p>
 
 <hr>
 
