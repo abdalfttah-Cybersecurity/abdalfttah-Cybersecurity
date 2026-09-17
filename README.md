@@ -72,8 +72,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="Programming Animation" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="380" alt="Cat Coding Animation" />
 </p>
 
 <h3>Containers &amp; Infrastructure</h3>
@@ -123,7 +124,7 @@
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380" alt="Hacker Typing Animation" />
+  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="360" alt="Cat Programming Animation" />
 </p>
 
 <hr>
