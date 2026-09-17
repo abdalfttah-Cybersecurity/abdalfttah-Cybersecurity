@@ -75,12 +75,8 @@
 <h3>🌐 Web &amp; Backend</h3>
 <p>💻 Building <strong>secure, scalable web applications &amp; backend services</strong> with a focus on ⚡ performance, 🔐 authentication &amp; authorization, 🛡️ secure input handling, 🗄️ database architecture, and 🔒 protecting sensitive data.</p>
 
-<h3>Embedded &amp; Hardware</h3>
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
-</p>
-<p>Microcontrollers, robotics, and electronics — used as a platform for understanding low-level systems, hardware interfaces, and attack surface beyond the OS layer.</p>
+<h3>🤖 Embedded Systems, Robotics &amp; Hardware</h3>
+<p>⚙️ Engineering with <strong>microcontrollers, embedded systems, robotics &amp; electronics</strong> to explore 🔬 low-level architecture, 🔌 hardware–software interfaces, 🧩 firmware, 🛡️ embedded security, 🔍 attack surfaces, and ⚡ real-world system integration.</p>
 
 <hr>
 
