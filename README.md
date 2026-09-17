@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="360" alt="Linux Terminal Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="Programming Animation" />
 </p>
 
 <h3>Containers &amp; Infrastructure</h3>
