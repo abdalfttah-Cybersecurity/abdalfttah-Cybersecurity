@@ -114,12 +114,14 @@
 
 <hr>
 
-<h2>Currently Working On</h2>
+<h2>🚀 Currently Working On</h2>
 <ul>
-  <li>Building security-focused tooling in <strong>Python</strong> and <strong>Go</strong></li>
-  <li>Deepening <strong>Rust</strong> for systems-level and memory-safe security code</li>
-  <li>Practicing <strong>network and web security</strong> in isolated lab environments</li>
-  <li>Studying <strong>secure software development</strong> patterns and threat modeling</li>
+  <li>🛡️ Engineering <strong>security-focused tools</strong> with Python &amp; Go for automation, analysis, and security workflows</li>
+  <li>🦀 Advancing <strong>Rust</strong> for systems programming, memory safety, and security-critical development</li>
+  <li>🌐 Practicing <strong>network &amp; web security</strong> through controlled, isolated lab environments</li>
+  <li>🔐 Applying <strong>secure software development</strong>, threat modeling, authentication, and defensive coding principles</li>
+  <li>🐧 Strengthening <strong>Linux, networking, systems, and cybersecurity</strong> skills through hands-on projects</li>
+  <li>🧪 Building, testing, and analyzing <strong>real-world security scenarios</strong> in authorized environments</li>
 </ul>
 
 <hr>
