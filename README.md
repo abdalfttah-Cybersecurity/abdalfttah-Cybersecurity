@@ -72,8 +72,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
 </p>
 
-<h3>Web &amp; Backend</h3>
-<p>Web application development, backend services, and database design — with attention to authentication, input handling, and data exposure.</p>
+<h3>🌐 Web &amp; Backend</h3>
+<p>💻 Building <strong>secure, scalable web applications &amp; backend services</strong> with a focus on ⚡ performance, 🔐 authentication &amp; authorization, 🛡️ secure input handling, 🗄️ database architecture, and 🔒 protecting sensitive data.</p>
 
 <h3>Embedded &amp; Hardware</h3>
 <p>
