@@ -1,61 +1,138 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<div align="center">
+  <h1>Abdalfttah</h1>
+  <h3>Cybersecurity • Ethical Hacking • Security Research</h3>
+  <p>
+    <a href="https://github.com/abdalfttah-Cybersecurity">
+      <img src="https://img.shields.io/badge/GitHub-abdalfttah--Cybersecurity-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/abdalfttah">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:[PLACEHOLDER_EMAIL]">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
+<hr>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+<h2>About</h2>
+<p>I work at the intersection of <strong>offensive security</strong>, <strong>systems programming</strong>, and <strong>secure software development</strong>.<br>
+My focus is on understanding how systems behave under attack, how to assess and harden them, and how to build software that resists exploitation by design.</p>
+<p>I learn through hands-on labs, controlled environments, source code analysis, and building tooling — not through tutorials alone.<br>
+All security work I do is performed in <strong>authorized, isolated, or personally owned environments</strong>.</p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+<hr>
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+<h2>Cybersecurity Focus</h2>
+<ul>
+  <li><strong>Offensive Security</strong> — enumeration, exploitation workflows, privilege escalation in lab environments</li>
+  <li><strong>Vulnerability Assessment</strong> — identifying, validating, and documenting weaknesses</li>
+  <li><strong>Network Security</strong> — protocol analysis, traffic inspection, perimeter reasoning</li>
+  <li><strong>Web Security</strong> — application-layer flaws, request manipulation, secure-by-default design</li>
+  <li><strong>Linux Security</strong> — hardening, permissions, process and service analysis</li>
+  <li><strong>Security Automation</strong> — scripting repetitive recon and analysis tasks</li>
+  <li><strong>Secure Software Development</strong> — writing code with threat modeling in mind</li>
+</ul>
 
-<br>
+<hr>
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<h2>Programming Languages</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+</p>
 
-<br>
+<hr>
 
+<h2>Tools &amp; Technologies</h2>
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<h3>Linux &amp; Systems</h3>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-</a>
+<h3>Containers &amp; Infrastructure</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-<br>
+<h3>Web &amp; Backend</h3>
+<p>Web application development, backend services, and database design — with attention to authentication, input handling, and data exposure.</p>
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<h3>Embedded &amp; Hardware</h3>
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
+<p>Microcontrollers, robotics, and electronics — used as a platform for understanding low-level systems, hardware interfaces, and attack surface beyond the OS layer.</p>
+
+<hr>
+
+<h2>Featured Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Focus</th>
+      <th>Stack</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[PLACEHOLDER_PROJECT_NAME]</td>
+      <td>[PLACEHOLDER_ONE_LINE_PURPOSE]</td>
+      <td>[PLACEHOLDER_STACK]</td>
+      <td>[PLACEHOLDER_REPO_URL]</td>
+    </tr>
+    <tr>
+      <td>[PLACEHOLDER_PROJECT_NAME]</td>
+      <td>[PLACEHOLDER_ONE_LINE_PURPOSE]</td>
+      <td>[PLACEHOLDER_STACK]</td>
+      <td>[PLACEHOLDER_REPO_URL]</td>
+    </tr>
+    <tr>
+      <td>[PLACEHOLDER_PROJECT_NAME]</td>
+      <td>[PLACEHOLDER_ONE_LINE_PURPOSE]</td>
+      <td>[PLACEHOLDER_STACK]</td>
+      <td>[PLACEHOLDER_REPO_URL]</td>
+    </tr>
+  </tbody>
+</table>
+<p><em>Each project README documents its purpose, threat model or design constraints, and how to run it safely.</em></p>
+
+<hr>
+
+<h2>Currently Working On</h2>
+<ul>
+  <li>Building security-focused tooling in <strong>Python</strong> and <strong>Go</strong></li>
+  <li>Deepening <strong>Rust</strong> for systems-level and memory-safe security code</li>
+  <li>Practicing <strong>network and web security</strong> in isolated lab environments</li>
+  <li>Studying <strong>secure software development</strong> patterns and threat modeling</li>
+</ul>
+
+<hr>
+
+<h2>GitHub Statistics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalfttah-Cybersecurity&amp;show_icons=true&amp;hide_border=true&amp;theme=default" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalfttah-Cybersecurity&amp;layout=compact&amp;hide_border=true&amp;theme=default" height="160" alt="Top Languages" />
+</p>
+
+<hr>
+
+<h2>Contact</h2>
+<ul>
+  <li><strong>GitHub:</strong> <a href="https://github.com/abdalfttah-Cybersecurity">abdalfttah-Cybersecurity</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abdalfttah">www.linkedin.com/in/abdalfttah</a></li>
+  <li><strong>Email:</strong> <a href="mailto:[PLACEHOLDER_EMAIL]">[PLACEHOLDER_EMAIL]</a></li>
+</ul>
+<p>Open to collaboration on security tooling, research, and secure software projects.</p>
