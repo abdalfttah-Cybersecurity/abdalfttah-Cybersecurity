@@ -72,9 +72,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
-
 <p align="center">
-  <img src="[YOUR_RAW_IMAGE_URL]" alt="Tech Stack Banner" />
+  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="360" alt="Linux Terminal Animation" />
 </p>
 
 <h3>Containers &amp; Infrastructure</h3>
@@ -122,10 +121,6 @@
     </tr>
   </tbody>
 </table>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380" alt="Hacker Typing Animation" />
-</p>
 
 <hr>
 
