@@ -43,9 +43,16 @@
   <li>🧪 <strong>Hands-On Security Labs</strong> — learning through controlled environments, practical experiments, testing, and technical analysis</li>
 </ul>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Cybersecurity Animation" />
+</p>
+
 <hr>
 
 <h2>Programming Languages</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="320" alt="Coding Animation" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C" />
@@ -64,6 +71,10 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="380" alt="Cat Coding Animation" />
 </p>
 
 <h3>Containers &amp; Infrastructure</h3>
@@ -111,6 +122,10 @@
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="360" alt="Cat Programming Animation" />
+</p>
 
 <hr>
 
