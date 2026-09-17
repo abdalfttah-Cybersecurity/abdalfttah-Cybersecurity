@@ -3,13 +3,13 @@
   <h3>Cybersecurity • Ethical Hacking • Security Research</h3>
   <p>
     <a href="https://github.com/abdalfttah-Cybersecurity">
-      <img src="https://img.shields.io/badge/GitHub-abdalfttah--Cybersecurity-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-abdalfttah--Cybersecurity-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/abdalfttah">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:[PLACEHOLDER_EMAIL]">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -17,10 +17,14 @@
 <hr>
 
 <h2>About</h2>
-<p>I work at the intersection of <strong>offensive security</strong>, <strong>systems programming</strong>, and <strong>secure software development</strong>.<br>
-My focus is on understanding how systems behave under attack, how to assess and harden them, and how to build software that resists exploitation by design.</p>
-<p>I learn through hands-on labs, controlled environments, source code analysis, and building tooling — not through tutorials alone.<br>
-All security work I do is performed in <strong>authorized, isolated, or personally owned environments</strong>.</p>
+<p>Experienced Software Developer with practical experience in software development, cybersecurity, Linux, networking, and system technologies. Skilled in building practical software solutions and applying programming concepts to real-world technical projects. 💻</p>
+<p>Strong programming experience with Python, C/C++, Java, Go, and Rust, with hands-on knowledge of software development, automation, backend technologies, databases, and system-level programming. ⚙️</p>
+<p>Experienced working with Linux environments, computer networking, cybersecurity, network security, ethical hacking, system administration, and security automation, with a focus on understanding systems and developing secure and reliable solutions. 🐧🔐</p>
+<p>Hands-on experience with modern development and infrastructure technologies, including Docker, Git, Kubernetes, PostgreSQL, MySQL, SQLite, Arduino, and Raspberry Pi. 🐳🛠️</p>
+<p>I have also gained practical experience in open-source development and AI technologies, including Models as a Service (MaaS), LLM inference workflows, vLLM-based solutions, AI agents, and cloud-native technologies. 🤖☁️</p>
+<p>Strong ability to analyze technical problems, develop practical solutions, learn new technologies quickly, debug complex issues, and work across software, systems, networking, and cybersecurity environments. 🚀</p>
+<p>I focus on developing real-world technical expertise through practical projects, open-source technologies, software engineering, cybersecurity, and continuous hands-on development. 🌐💡</p>
+<p><strong>Core Areas:</strong> Software Development • Cybersecurity • Linux • Networking • Python • C/C++ • Java • Go • Rust • Docker • Kubernetes • Git • Web Development • Backend Development • System Administration • Automation • Embedded Systems</p>
 
 <hr>
 
@@ -39,13 +43,13 @@ All security work I do is performed in <strong>authorized, isolated, or personal
 
 <h2>Programming Languages</h2>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&amp;logo=ruby&amp;logoColor=white" alt="Ruby" />
 </p>
 
 <hr>
@@ -54,14 +58,14 @@ All security work I do is performed in <strong>authorized, isolated, or personal
 
 <h3>Linux &amp; Systems</h3>
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
 <h3>Containers &amp; Infrastructure</h3>
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
 </p>
 
 <h3>Web &amp; Backend</h3>
@@ -69,8 +73,8 @@ All security work I do is performed in <strong>authorized, isolated, or personal
 
 <h3>Embedded &amp; Hardware</h3>
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
 </p>
 <p>Microcontrollers, robotics, and electronics — used as a platform for understanding low-level systems, hardware interfaces, and attack surface beyond the OS layer.</p>
 
