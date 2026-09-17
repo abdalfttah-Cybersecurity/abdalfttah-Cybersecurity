@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="380" alt="Cat Coding Animation" />
+  <img src="[YOUR_RAW_IMAGE_URL]" alt="Tech Stack Banner" />
 </p>
 
 <h3>Containers &amp; Infrastructure</h3>
@@ -124,7 +124,7 @@
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="360" alt="Cat Programming Animation" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380" alt="Hacker Typing Animation" />
 </p>
 
 <hr>
