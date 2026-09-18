@@ -3,17 +3,18 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/abdalfttah-Cybersecurity">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdalfttah+%F0%9F%91%8B;Cybersecurity+%7C+Ethical+Hacking;Security+Research+%7C+Linux;Software+Developer+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdalfttah+%F0%9F%91%8B;Cybersecurity+%7C+Ethical+Hacking;Security+Research+%7C+Linux;Software+Developer+%7C+Automation;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <h1>Abdalfttah</h1>
   <h3>Cybersecurity • Ethical Hacking • Security Research</h3>
 
-  <!-- Profile Views + Followers -->
+  <!-- Profile Views + Followers + Stars -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=abdalfttah-Cybersecurity&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/abdalfttah-Cybersecurity?label=Followers&style=flat-square&color=00BFFF" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/abdalfttah-Cybersecurity?label=Stars&style=flat-square&color=FFD700" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/abdalfttah-Cybersecurity?label=Followers&style=flat-square&color=00BFFF&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/abdalfttah-Cybersecurity?label=Stars&style=flat-square&color=FFD700&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=shield" alt="Focus" />
   </p>
 
   <!-- Hero Image -->
@@ -33,6 +34,15 @@
     <a href="https://twitter.com/">
       <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
+    <a href="https://github.com/abdalfttah-Cybersecurity?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-Explore-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+  </p>
+
+  <!-- Status Badge -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Open%20to-Security%20Research-blueviolet?style=flat-square" alt="Open To" />
   </p>
 
 </div>
@@ -53,6 +63,21 @@
 <p>I have also gained practical experience in <strong>open-source development and AI technologies</strong>, including Models as a Service (MaaS), LLM inference workflows, vLLM-based solutions, AI agents, and cloud-native technologies. 🤖☁️</p>
 
 <p><strong>Core Areas:</strong> Software Development • Cybersecurity • Linux • Networking • Python • C/C++ • Java • Go • Rust • Docker • Kubernetes • Git • Web Development • Backend Development • System Administration • Automation • Embedded Systems</p>
+
+<!-- Quick Facts -->
+<details>
+<summary>📌 <strong>Quick Facts</strong> (click to expand)</summary>
+<br>
+
+| | |
+|---|---|
+| 🔭 **Currently Working On** | Security-focused tools & Rust systems programming |
+| 🌱 **Currently Learning** | Advanced penetration testing & cloud security |
+| 👯 **Looking to Collaborate** | Security tooling, open-source, & research projects |
+| 💬 **Ask Me About** | Python, Linux, Cybersecurity, Networking, Docker |
+| ⚡ **Fun Fact** | I break things ethically to make them stronger 🔐 |
+
+</details>
 
 <hr>
 
@@ -110,6 +135,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
@@ -121,6 +147,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
 <h3>🗄️ Databases</h3>
@@ -132,12 +160,22 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
+<h3>🔐 Security Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
+
 <h3>🌐 Web &amp; Backend</h3>
 <p>💻 Building <strong>secure, scalable web applications &amp; backend services</strong> with a focus on ⚡ performance, 🔐 authentication &amp; authorization, 🛡️ secure input handling, 🗄️ database architecture, and 🔒 protecting sensitive data.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
@@ -210,21 +248,55 @@
 <!-- ==================== GITHUB STATISTICS ==================== -->
 <h2>📊 GitHub Statistics</h2>
 
+<!-- Row 1: Main Stats + Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdalfttah-Cybersecurity&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalfttah-Cybersecurity&layout=compact&hide_border=true&theme=radical&langs_count=10" height="180" alt="Top Languages" />
 </p>
 
+<!-- Row 2: GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalfttah-Cybersecurity&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
+<!-- Row 3: Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdalfttah-Cybersecurity&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<!-- Row 4: GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdalfttah-Cybersecurity&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Row 5: Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdalfttah-Cybersecurity&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdalfttah-Cybersecurity&theme=radical" height="180" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdalfttah-Cybersecurity&theme=radical" height="180" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdalfttah-Cybersecurity&theme=radical" height="180" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdalfttah-Cybersecurity&theme=radical&utcOffset=3" height="180" alt="Productive Time" />
+</p>
+
+<!-- Row 6: Top Contributed Repos -->
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdalfttah-Cybersecurity&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+<!-- Row 7: Pinned Repository Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdalfttah-Cybersecurity&repo=abdalfttah-Cybersecurity&theme=radical&hide_border=true" alt="Pinned Repo" />
+</p>
+
+<!-- Row 8: Visitors Badge -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdalfttah-Cybersecurity.abdalfttah-Cybersecurity&left_color=00BFFF&right_color=FFD700&left_text=Visitors" alt="Visitors" />
 </p>
 
 <hr>
@@ -285,4 +357,9 @@
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
+</p>
+
+<!-- Footer Signature -->
+<p align="center">
+  <i>⭐ From <a href="https://github.com/abdalfttah-Cybersecurity">Abdalfttah</a> — Building secure systems, one line at a time.</i>
 </p>
